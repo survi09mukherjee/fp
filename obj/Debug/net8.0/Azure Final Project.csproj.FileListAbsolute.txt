@@ -1,0 +1,31 @@
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\Azure Final Project.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\Azure Final Project.exe
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\Azure Final Project.deps.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\Azure Final Project.runtimeconfig.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\Azure Final Project.dll
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\bin\Debug\net8.0\Azure Final Project.pdb
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\staticwebassets\msbuild.Azure Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Azure Final Project.props
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Azure Final Project.props
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Azure Final Project.props
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\scopedcss\bundle\Azure Final Project.styles.css
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\scopedcss\projectbundle\Azure Final Project.bundle.scp.css
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.dll
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\refint\Azure Final Project.dll
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.pdb
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\ref\Azure Final Project.dll
+C:\Users\DELL\Desktop\Azure Final Project\Azure Final Project\obj\Debug\net8.0\Azure Final Project.sourcelink.json
