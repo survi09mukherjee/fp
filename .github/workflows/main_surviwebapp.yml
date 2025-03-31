@@ -55,4 +55,4 @@ jobs:
           app-name: 'Surviwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF77A342EEC145118A40FE4F48B94397 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_389EC0C253A7437BB44242B53547E46C }}
